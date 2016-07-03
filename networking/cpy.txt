@@ -1,0 +1,1 @@
+documentation is maintained using Doxygen. Doxygen is typically used for API documentation, and organizes such documentation across different modules. This project uses Doxygen for building the definitive maintained API documentation. Additional ns-3 project documentation can be found at the project web site.
